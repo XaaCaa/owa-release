@@ -1,0 +1,6 @@
+{
+  "version": "1.9.89",
+  "url": "https://raw.githubusercontent.com/XaaCaa/owa-release/main/OWA-V1.9.89.zip",
+  "notes": "更新双源：不挂代理也能收新版（jsDelivr 镜像自动回落）",
+  "url2": "https://cdn.jsdelivr.net/gh/XaaCaa/owa-release@main/OWA-V1.9.89.zip"
+}
