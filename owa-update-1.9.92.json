@@ -1,0 +1,6 @@
+{
+  "version": "1.9.92",
+  "url": "https://raw.githubusercontent.com/XaaCaa/owa-release/main/OWA-V1.9.92.zip",
+  "notes": "图片采集稳定性：懒加载轻扫连续覆盖整页+补扫机制+采集环节重试降级",
+  "url2": "https://cdn.jsdelivr.net/gh/XaaCaa/owa-release@main/OWA-V1.9.92.zip"
+}
